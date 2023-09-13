@@ -1,3 +1,5 @@
+github.com/francoislerall/soda v0.0.0-20230712081326-50fd5a077eed h1:pHtfaUtzCkZTHPNZVn06NdU859+cNhKpHQWi2U2BZWs=
+github.com/francoislerall/soda v0.0.0-20230712081326-50fd5a077eed/go.mod h1:1rech25T3BQUmNgqdlTQd6QoVPxDwRfKegXr2aAShJI=
 github.com/msrocka/ilcd v1.0.1 h1:57A8pbFu17Ay+KnSTw28ngcHH0Nu5NRkbhP1QoU46/w=
 github.com/msrocka/ilcd v1.0.1/go.mod h1:Gp+w+fl8G7e7MUcYnmtXBwOpccARn6HHsQP+7kDPaxY=
 github.com/msrocka/soda v0.0.0-20230712081326-50fd5a077eed h1:chBj4WM7QdcRw+uMhqmQ0q0IQPGsDOSWsSQopX4aAWM=
